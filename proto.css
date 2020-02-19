@@ -1,0 +1,29 @@
+body{
+  background-color: rgb(12, 10, 88);
+}
+h1{
+    color: rgb(34, 125, 197);
+    font-size: 50px;
+    font-family: 'Sigmar One', cursive;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+p{
+   font-family: monospace;
+   font-size: 15px;
+   color: rgb(255, 0, 0);
+}
+#button{
+         border-radius: 50px;
+         background-color: rgb(34, 125, 197);
+         font-size: 20px;
+         color: white;
+         width: 200px;
+         height: 100px;
+   }
+  input:hover{
+            background-color: rgb(195, 195, 195);
+            color: black;
+      }
